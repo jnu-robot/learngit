@@ -1,2 +1,6 @@
 233333333
+<<<<<<< HEAD
 create a new branch is easy & simple.
+=======
+create a new branch is easy and simple.
+>>>>>>> feature1
