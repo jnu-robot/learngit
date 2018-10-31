@@ -7,5 +7,9 @@ create a new branch is easy and simple.
 >>>>>>> feature1
 =======
 add merge
+<<<<<<< HEAD
 ene
+>>>>>>> dev
+=======
+ene2333
 >>>>>>> dev
